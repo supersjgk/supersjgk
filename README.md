@@ -10,7 +10,7 @@
 
 ### Tech Stack
 #### Languages
-<img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="Kotlin" width="40px" height="40px"> <img src="">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="Kotlin" width="40px" height="40px">
 
 #### Frameworks
 <img src="https://github.com/get-icon/geticon/raw/master/icons/pytorch.svg" alt="PyTorch" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/tensorflow.svg" alt="TensorFlow" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/opencv.svg" alt="OpenCV" width="40px" height="40px">
