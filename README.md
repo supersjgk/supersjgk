@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- I’m interested in Deep Learning, Generative AI, NLP, LLMs, Computer Vision, Reinforcement Learning.
+- I’m skilled in Software Development, Machine Learning and Data Analytics.
+- Actively looking for full-time roles.
 - I’m looking to collaborate on open source projects.
   
 ![](https://komarev.com/ghpvc/?username=supersjgk&color=blue)
@@ -13,7 +14,7 @@
 <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="Kotlin" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/blob/master/icons/r-lang.svg" alt="R" width="50px" height="50px"> <img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt="C#" width="42px" height="42px">
 
 #### Frameworks
-<img src="https://github.com/get-icon/geticon/raw/master/icons/pytorch.svg" alt="PyTorch" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/tensorflow.svg" alt="TensorFlow" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/opencv.svg" alt="OpenCV" width="40px" height="40px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/pytorch.svg" alt="PyTorch" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/tensorflow.svg" alt="TensorFlow" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/opencv.svg" alt="OpenCV" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="ReactJS" width="40px" height="40px">
 
 #### OS
 <img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg" alt="Windows" width="40px" height="40px"></a> <img src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg" alt="Linux" width="40px" height="40px"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/raspberry-pi.svg" alt="RaspberryPi" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/blob/master/icons/android-icon.svg" alt="Android" width="40px" height="40px"> 
