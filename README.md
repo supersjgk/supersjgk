@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m skilled in Software Development, Machine Learning and Data Analytics.
+- I’m skilled in Software Development, Machine Learning, IT, and Data Analytics.
 - Actively looking for full-time roles.
 - I’m looking to collaborate on open source projects.
   
